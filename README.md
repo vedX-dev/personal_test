@@ -240,3 +240,6 @@ That's it! Set it up once and forget about it. Your GitHub activity will stay co
 
 ### Monday Notes
 ## December 01 Update
+
+### Tuesday Notes
+## December 02 Update
