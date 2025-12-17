@@ -78,3 +78,6 @@ This file will be updated daily with random notes and activities.
 
 [2025-12-14 12:50] code review - update
 [2025-12-14 12:50] bug fixes - update
+
+[2025-12-17 13:21] learning - update
+[2025-12-17 13:21] planning - update
