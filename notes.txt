@@ -102,3 +102,6 @@ This file will be updated daily with random notes and activities.
 
 [2026-01-05 12:32] bug fixes - update
 [2026-01-05 12:32] planning - update
+
+[2026-01-07 17:07] refactoring - update
+[2026-01-07 17:07] research - update
