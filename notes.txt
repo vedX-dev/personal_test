@@ -108,3 +108,6 @@ This file will be updated daily with random notes and activities.
 
 [2026-01-08 19:16] refactoring - update
 [2026-01-08 19:16] refactoring - update
+
+[2026-01-12 18:58] documentation - update
+[2026-01-12 18:58] cleanup - update
