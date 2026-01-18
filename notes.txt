@@ -117,3 +117,6 @@ This file will be updated daily with random notes and activities.
 
 [2026-01-17 14:23] planning - update
 [2026-01-17 14:23] learning - update
+
+[2026-01-18 18:30] refactoring - update
+[2026-01-18 18:30] bug fixes - update
