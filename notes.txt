@@ -174,3 +174,6 @@ This file will be updated daily with random notes and activities.
 
 [2026-04-04 12:03] learning - update
 [2026-04-04 12:03] research - update
+
+[2026-04-04 16:03] planning - update
+[2026-04-04 16:03] cleanup - update
