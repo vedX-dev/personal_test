@@ -474,3 +474,6 @@ That's it! Set it up once and forget about it. Your GitHub activity will stay co
 
 ## May 02 Update
 ### Saturday Notes
+
+### Tuesday Notes
+## May 05 Update
