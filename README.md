@@ -522,3 +522,6 @@ That's it! Set it up once and forget about it. Your GitHub activity will stay co
 
 ### Friday Notes
 - learning completed at 08:53
+
+### Thursday Notes
+## August 06 Update
